@@ -1,14 +1,17 @@
 {
   "todos": [
     {
+      "id": 123,
       "title": "finish this",
       "completed": false
     },
     {
+      "id": 234,
       "title": "finish that",
-      "completed": false
+      "completed": true
     },
     {
+      "id": 456,
       "title": "finish over",
       "completed": false
     }
